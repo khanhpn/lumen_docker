@@ -11,7 +11,8 @@
 <body>
   <p>Test</p>
   <form action="/test1" method="post">
-    <input type="text" name="name" />
+    <input type="text" name="email" />
+    <input type="password" name="password" />
     <input type="submit" />
   </form>
 </body>
